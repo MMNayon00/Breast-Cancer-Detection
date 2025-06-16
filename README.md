@@ -30,9 +30,6 @@ The ensemble model achieved the highest accuracy of 92.40%, outperforming indivi
 
 ⚙️ Installation
 
-Clone this repository and install the required libraries:
-
-git clone https://github.com/yourusername/ultrasound-cnn-classification.git
 cd ultrasound-cnn-classification
 pip install -r requirements.txt
 🚀 How to Run
